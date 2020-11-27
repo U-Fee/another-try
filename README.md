@@ -1,7 +1,7 @@
 # another-try
 
 hexagon
-text
+pentagon
 apple juice
 merci 
 vraiment
